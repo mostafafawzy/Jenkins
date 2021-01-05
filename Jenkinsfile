@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('print') {
       steps {
-        echo 'hello from the trigger'
+        echo 'hello from the trigger again'
       }
     }
 
