@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('print') {
       steps {
-        echo 'hello  mostafa fawzy'
+        echo 'hello  mostafa fawzy salem'
       }
     }
 
