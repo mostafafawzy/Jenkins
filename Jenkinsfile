@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('print') {
       steps {
-        echo 'hello from tjhjhhe trigger again'
+        echo 'hello  again'
       }
     }
 
