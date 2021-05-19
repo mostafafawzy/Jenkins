@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('print') {
       steps {
-        echo 'hello  again'
+        echo 'hello  mostafa'
       }
     }
 
