@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('print') {
       steps {
-        echo 'hello  mostafa fawzy salem 34343'
+        echo 'hello  mostafa fawzy salem were'
       }
     }
 
